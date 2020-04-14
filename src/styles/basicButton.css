@@ -1,0 +1,23 @@
+.basicBtn {
+  margin: 5px;
+  width: 100px;
+  height: 25px;
+  outline: none;
+  border: none;
+  background-color: mediumaquamarine;
+  color: white;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.basicBtn2 {
+  margin: 5px;
+  width: 100px;
+  height: 25px;
+  outline: none;
+  border: none;
+  background-color: rgb(1, 160, 1);
+  color: white;
+  cursor: pointer;
+  font-weight: 600;
+}
